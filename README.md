@@ -60,3 +60,5 @@ streamlit run deployment/app.py
 - couldn't get XGBoost installed in my environment so used sklearn's GradientBoostingClassifier instead
 - used synthetic data based on historical stats since the Kaggle dataset isn't bundled here
 - draws are the hardest outcome to predict - the model tends to underpredict them
+  
+~ APP:https://fifa-worldcup-winner-predictor-nbajphxt3dh4rn5sbn4qzz.streamlit.app/
